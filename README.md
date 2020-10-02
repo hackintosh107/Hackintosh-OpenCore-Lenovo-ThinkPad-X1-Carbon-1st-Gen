@@ -1,0 +1,1 @@
+# Hackintosh-Opencore-Lenovo-Thinkpad-X1-Carbon-1st-Gen
