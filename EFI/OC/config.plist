@@ -255,13 +255,13 @@
 				<key>framebuffer-con1-flags</key>
 				<data>BgAAAA==</data>
 				<key>framebuffer-con1-type</key>
-				<data>AAgAAA==</data>
+				<data>AAQAAA==</data>
 				<key>framebuffer-con2-enable</key>
 				<integer>1</integer>
 				<key>framebuffer-con2-flags</key>
 				<data>BgAAAA==</data>
 				<key>framebuffer-con2-type</key>
-				<data>AAgAAA==</data>
+				<data>AAQAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
