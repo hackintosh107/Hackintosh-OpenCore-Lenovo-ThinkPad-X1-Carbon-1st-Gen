@@ -27,7 +27,7 @@
 - [ ] Card reader
 
 # Not test:
-* D-Sub external port
+* Mini Displayport external port
 
 # SMBIOS:
 MacBookPro13,1
