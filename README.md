@@ -10,7 +10,7 @@
 * Touchpad: Synaptics SMBus TouchPad
 
 # Version: 
-* Opencore: 0.6.2
+* OpenCore: 0.6.2
 
 # Working:
 - [x] Intel HD Graphics 4000
