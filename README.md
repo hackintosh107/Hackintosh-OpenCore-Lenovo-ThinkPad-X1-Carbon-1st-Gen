@@ -1,4 +1,4 @@
-# Hackintosh-Opencore-Lenovo-Thinkpad-X1-Carbon-1st-Gen
+# Hackintosh-OpenCore-Lenovo-Thinkpad-X1-Carbon-1st-Gen
 
 # Specifications:
 * CPU: Intel Core i5-3427U
